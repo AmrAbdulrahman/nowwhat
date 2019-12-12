@@ -1,10 +1,10 @@
 {
   "name": "nowwhat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "bin": {
-    "nowhat": "bin/nowwhat"
+    "nowwhat": "bin/nowwhat"
   },
   "repository": {
     "url": "https://github.com/AmrAbdulrahman/nowwhat"
